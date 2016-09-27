@@ -1,3 +1,5 @@
+*.sqlite3
+
 ### https://raw.github.com/github/gitignore/0b2d7ae1aa11a4bbafdce2e624477b960a2c018d/python.gitignore
 
 # Byte-compiled / optimized / DLL files
